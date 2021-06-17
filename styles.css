@@ -1,0 +1,24 @@
+
+h1{
+    margin-left: 5%;
+    padding-top: 5%;
+    
+}
+#ak-name{
+    width: 50%;
+    margin-left: 5%;
+    padding-top: 4%;
+}
+#ak-img{
+    margin-left: 55%;
+    width: 50%;
+    top: 28%;
+    position: absolute;
+}
+#ak-p{
+    width:50%;
+    margin-left: 7%;
+    padding-top: 4%;
+    font-size: 150%;
+    font-family: 'Montserrat', sans-serif;
+}
