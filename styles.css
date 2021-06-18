@@ -4,21 +4,105 @@ h1{
     padding-top: 5%;
     
 }
-#ak-name{
+.ak-title{
     width: 50%;
     margin-left: 5%;
     padding-top: 4%;
 }
-#ak-img{
+.ak-img{
     margin-left: 55%;
     width: 50%;
     top: 28%;
     position: absolute;
 }
-#ak-p{
+.ak-p1{
     width:50%;
     margin-left: 7%;
     padding-top: 4%;
     font-size: 150%;
     font-family: 'Montserrat', sans-serif;
+}
+
+.icon {
+	color: black;
+	margin-bottom: 1rem;
+}
+
+.icon:hover{
+	color: green;
+}
+
+.fa-paw {
+	position: absolute;
+	left:40%;
+	bottom: 48%;
+}
+
+
+
+.ak-reserves-title {
+	font-size: 2rem;
+}
+
+.feature-box {
+	padding: 4.5%;
+	width: 50%;
+}
+
+#ak-reserves {
+	background-color: #5fcb5f;
+	text-align: center;
+}
+
+#title-section {
+	padding-bottom: 5%;
+}
+
+.yellow-circle {
+	border-radius: 100%;
+	padding-bottom: 3%;
+}
+
+.fa-seedling {
+	position: absolute;
+	left:40%;
+	bottom: 46%;
+}
+
+.fa-dove {
+	position: absolute;
+	left:40%;
+	bottom: 48%;
+}
+
+.ak-reserves-link {
+	color: black;
+}
+.ak-reserves-link:hover{
+	color: green;
+	text-decoration: none;
+}
+
+
+
+#ak-conservation {
+	background-color: white;
+}
+
+
+
+.navbar {
+	background-color: #00ff00;
+}
+
+
+
+
+
+#ak-facts {
+	background-color: white;
+}
+
+.p2 {
+	
 }
