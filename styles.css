@@ -23,6 +23,16 @@ h1{
     font-family: 'Montserrat', sans-serif;
 }
 
+/*mudit section*/
+
+#ak-conservation {
+	background-color: white;
+}
+
+/*mudit section*/
+
+/*kshitij section*/
+
 .icon {
 	color: black;
 	margin-bottom: 1rem;
@@ -83,26 +93,19 @@ h1{
 	text-decoration: none;
 }
 
-
-
-#ak-conservation {
-	background-color: white;
-}
-
-
-
 .navbar {
 	background-color: #00ff00;
-}
-
-
-
-
-
-#ak-facts {
-	background-color: white;
 }
 
 .p2 {
 	
 }
+/*kshitij section*/
+
+/*rambabu section*/
+
+#ak-facts {
+	background-color: white;
+}
+
+/*rambabu section*/
