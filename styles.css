@@ -94,13 +94,23 @@ h1 {
   color: green;
   text-decoration: none;
 }
-
-
-
+#ak-logo{
+    height:25%;
+    width:25%;
+    }
+#card-p{
+    font-family: 'Montserrat', sans-serif;
+}
+h6{
+    font-family: 'Montserrat', sans-serif;
+}
 .p2 {}
 
 /*kshitij section*/
-
+#ak-types-img{
+    margin-left: 31%;
+    padding-top: 5%;
+}
 /*TYPES OF ANIMAL*/
 
 #cards_landscape_wrap-2 {
@@ -192,7 +202,7 @@ h1 {
   font-size: 18px;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: 'Roboto Black', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 1px;
   color: #00acc1;
 }
