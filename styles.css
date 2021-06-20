@@ -29,6 +29,57 @@ h1 {
 #ak-conservation {
   background-color: white;
 }
+h3{
+    color:black
+    font-size:15 px;
+    font-family:Montsarrat;
+}
+p{
+    color:black;
+    font-size:10 px;
+    font-family:Montsarrat;
+}
+.image-1 {
+    width: 25%;
+}
+
+.image {
+    width: 60%;
+}
+
+.heading-1 {
+    margin-left: 6%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.abd-ani-text {
+    color:black;
+    font-size:25px;
+    font-family: Montsarrat;
+    
+}
+
+.image-2 {
+    width:60%;
+}
+
+.p1 {
+    color:black;
+    font-size:25px;
+    font-family: Montsarrat;
+    
+}
+
+.ak-conservation-link {
+    color: green;
+}
+
+.ak-conservation-link:hover{
+    
+    color:blue;
+}
+
 
 /*mudit section*/
 
