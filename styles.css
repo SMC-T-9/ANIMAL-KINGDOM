@@ -327,6 +327,7 @@ h6{
   }
   
   .card:hover {
+	  decoration:none;
     transform: rotate(0);
   }
   
