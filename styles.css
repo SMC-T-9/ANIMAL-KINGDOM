@@ -39,7 +39,7 @@ p{
     font-size:10 px;
     font-family:Montsarrat;
     padding-bottom:3%;
-    margin-left:4%;
+   
 }
 .image-1 {
     width: 25%;
@@ -59,6 +59,7 @@ p{
     color:black;
     font-size:25px;
     font-family: Montsarrat;
+    padding:3%;
     
 }
 
