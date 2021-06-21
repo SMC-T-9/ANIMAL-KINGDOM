@@ -332,12 +332,14 @@ h6{
   }
   
   .card h1 {
+	  decoration:none;
     margin: 0;
     font-size: 1.5em;
     line-height: 1.2em;
   }
   
   .card p {
+	  decoration:none;
     font-size: 0.75em;
     font-family: 'Open Sans';
     margin-top: 0.5em;
