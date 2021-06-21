@@ -1,0 +1,57 @@
+#ak-logo{
+    height:25%;
+    width:25%;
+    }
+.m-title-img{ 
+    
+   margin-left: 6%;
+	width: 50%;
+  padding-top: 4%;
+}
+#m-title-txt{
+    padding-top: 1%;
+    margin-left: 60%;
+top:3%
+}
+#m-title-imgl{
+    margin-left: 55%;
+    padding-top:1%;
+}
+.m-title {
+  width: 50%;
+  margin-left: 5%;
+  padding-top: 4%;
+}
+
+.m-img {
+  margin-left: 58%;
+  width: 40%;
+  top: 30%;
+  position: absolute;
+}
+
+.m-p1 {
+  width: 50%;
+  margin-left: 6%;
+  padding-top: 4%;
+  font-size: 150%;
+  font-family: 'Montserrat', sans-serif;
+}
+#loadMore {
+  width: 200px;
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background-color: blue;
+  transition: .3s;
+}
+#loadMore:hover {
+  color: blue;
+  background-color: #fff;
+  border: 1px solid blue;
+  text-decoration: none;
+}
