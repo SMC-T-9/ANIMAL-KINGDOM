@@ -3,10 +3,9 @@
     width:25%;
     }
 #m-title-img{ 
-    
-   margin-left: 6%; 
-   width: 30%;
-  padding-top: 4%;   
+    margin-left: 6%; 
+    width:30%;
+   padding-top: 4%;   
 }
 #m-title-txt{
     padding-top: 1%;
@@ -16,7 +15,7 @@ top:3%
 #m-title-imgl{
     margin-left: 55%;
     padding-top:1%;
-    width: 40%;
+    width: 30%;
 }
 .m-title {
   width: 40%;
