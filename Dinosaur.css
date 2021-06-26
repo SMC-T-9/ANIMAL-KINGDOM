@@ -1,0 +1,102 @@
+#ak-logo{
+    height:25%;
+    width:25%;
+    }
+#m-title-img{ 
+    
+   margin-left: 6%;    
+}
+#m-title-txt{
+    padding-top: 1%;
+    margin-left: 60%;
+top:3%
+}
+#m-title-imgl{
+    margin-left: 55%;
+    padding-top:1%;
+}
+.m-title {
+  width: 50%;
+  margin-left: 5%;
+  padding-top: 4%;
+}
+
+.m-img {
+  margin-left: 62%;
+  width: 35%;
+  top: 25%;
+  position: absolute;
+}
+
+.m-p1 {
+  width: 50%;
+  margin-left: 6%;
+  padding-top: 4%;
+  font-size: 150%;
+  font-family: 'Montserrat', sans-serif;
+}
+#loadMore {
+  width: 200px;
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background-color: blue;
+  transition: .3s;
+}
+#loadMore:hover {
+  color: blue;
+  background-color: #fff;
+  border: 1px solid blue;
+  text-decoration: none;
+}
+.footer-distributed {
+	background-color: #ccffbd;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 50px 50px 60px 50px;
+	margin-top: 80px;
+}
+
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+.footer-company-name {
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #00acc1;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
