@@ -269,3 +269,15 @@ footer{
 .fa-map-marker {
     
 }
+
+.ac-p2 {
+    width:75%;
+    text-align: center;
+    margin-left: 13%;
+    font-family: Montserrat;
+    font-size: 150%;
+}
+
+.amc-p2 {
+    padding-top: 3%; margin-left:12%; width:45%; font-family: Montserrat; font-size: 150%;
+}
