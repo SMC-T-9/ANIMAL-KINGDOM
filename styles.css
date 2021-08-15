@@ -23,6 +23,13 @@ h1 {
   font-size: 150%;
   font-family: 'Montserrat', sans-serif;
 }
+.ak-p2 {
+  width: 50%;
+  margin-left: 7%;
+  padding-top: 4%;
+  font-size: 150%;
+  font-family: 'Montserrat', sans-serif;
+}
 
 /*mudit section*/
 
@@ -47,19 +54,24 @@ p{
 
 .image {
     width: 60%;
+    margin-left: 20%;
+    padding-top: 6%;
 }
 
 .heading-1 {
-    margin-left: 6%;
-    padding-top: 2%;
+    margin-left: 5%;
+    padding-top: 4%;
     padding-bottom: 2%;
 }
 
 .abd-ani-text {
     color:black;
     font-size:25px;
-    font-family: Montsarrat;
-    padding:3%;
+    font-family: Montserrat;
+    padding:5%;
+    padding-left: 13%;
+    width: 115%;
+    padding-bottom: 7%;
     
 }
 
@@ -75,7 +87,7 @@ p{
 }
 
 .ak-conservation-link {
-    color: green;
+    color: white;
 }
 
 .ak-conservation-link:hover{
@@ -162,7 +174,8 @@ h6{
 
 /*kshitij section*/
 #ak-types-img{
-    margin-left: 31%;
+    margin-left: 31.5%;
+    margin-right: 50%;
     padding-top: 5%;
 }
 /*TYPES OF ANIMAL*/
